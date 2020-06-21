@@ -1,0 +1,33 @@
+.video-player {
+  display: flex;
+}
+.react-player {
+  width: 70% !important;
+}
+.link-list-sec {
+  width: 30%;
+  margin: 10px 20px;
+}
+input {
+  font-size: 14px;
+  padding: 11px 12px;
+  border: 1px solid #d4d5d9;
+  background-color: transparent;
+  font-weight: 300;
+  border-radius: 4px;
+  line-height: 14px;
+  margin-bottom: 16px;
+}
+button {
+  background-color: #25c16f;
+  color: #fff;
+  padding: 10px 22px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 4px;
+  font-size: 15px;
+  font-weight: bold;
+}
+img {
+  width: 70%;
+}
